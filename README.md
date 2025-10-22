@@ -28,6 +28,11 @@ Category: Wan2.2AnimateEnhancer
 
 Enhanced version of WanAnimateToVideo with additional controls.
 
+<img width="879" height="1122" alt="db712424c4b427f076ee1f1287489312" src="https://github.com/user-attachments/assets/33e2e239-52b5-4b56-8b55-a0cf764aaf93" />
+
+<img width="550" height="355" alt="c888b980a0856a064c2555a0b5c32b9e" src="https://github.com/user-attachments/assets/3e037ef4-7bcf-4874-b6d1-f8786027d3aa" />
+
+
 Parameters:
 - motion_strength (0.0-3.0): Overall motion intensity
 - expression_strength (0.0-3.0): Facial expression intensity
