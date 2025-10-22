@@ -1,0 +1,16 @@
+{
+  "name": "ComfyUI-WanAnimate-Enhancer",
+  "version": "1.0.0",
+  "description": "Enhanced WanAnimateToVideo nodes packaged for direct use under ComfyUI/custom_nodes. Original code preserved.",
+  "author": "",
+  "tags": [
+    "wan",
+    "animate",
+    "video",
+    "enhancer",
+    "comfyui"
+  ],
+  "license": "",
+  "website": "",
+  "repo": ""
+}

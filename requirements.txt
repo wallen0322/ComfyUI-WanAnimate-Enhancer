@@ -1,0 +1,2 @@
+# Minimal runtime dependencies
+# Torch/CUDA versions should match your existing ComfyUI environment and are intentionally omitted.
