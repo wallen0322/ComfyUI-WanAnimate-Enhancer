@@ -29,7 +29,7 @@ Documentation = "https://github.com/wallen0322/ComfyUI-WanAnimate-Enhancer/wiki"
 "Bug Tracker" = "https://github.com/wallen0322/ComfyUI-WanAnimate-Enhancer/issues"
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "wallen"
 DisplayName = "ComfyUI-WanAnimate-Enhancer"
 Icon = ""
 includes = [] 
